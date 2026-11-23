@@ -13,3 +13,4 @@ if result.returncode == 0:
     print(result.stdout)
 else:
     print("Unable to check firewall status.")
+1
